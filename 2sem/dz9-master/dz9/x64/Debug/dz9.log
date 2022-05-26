@@ -1,3 +1,0 @@
-﻿  dz9.cpp
-C:\Users\АБОБУС\Downloads\dz9-master\dz9-master\dz9\dz9.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  dz9.vcxproj -> C:\Users\АБОБУС\Downloads\dz9-master\dz9-master\x64\Debug\dz9.exe
