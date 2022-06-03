@@ -1,5 +1,0 @@
-﻿  Complex.cpp
-  main.cpp
-C:\Users\АБОБУС\source\repos\DZ_12\DZ_12\main.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
-  DZ_12.vcxproj -> C:\Users\АБОБУС\source\repos\DZ_12\Debug\DZ_12.exe
